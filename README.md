@@ -17,7 +17,7 @@ cv::Mat Convert to HEIF ; HEIF Convet to cv::Mat
 ### Windows
 You can build and install libheif using the vcpkg dependency manager:
 
-git clone https://github.com/Microsoft/vcpkg.git
+    git clone https://github.com/Microsoft/vcpkg.git
     cd vcpkg
     ./bootstrap-vcpkg.bat
     ./vcpkg integrate install
